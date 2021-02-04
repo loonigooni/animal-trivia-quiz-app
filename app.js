@@ -65,7 +65,7 @@ function generateQuiz() {
         <div class="answers">
           ${generateAnswers()}
         </div>
-        <button type="sumbit' id="submit'>Submit</button>
+        <button type="sumbit' id="submit">Submit</button>
       </fieldset>
     </form>
   `;
